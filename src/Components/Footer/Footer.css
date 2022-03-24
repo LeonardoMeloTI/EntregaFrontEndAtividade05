@@ -1,0 +1,30 @@
+footer {
+  justify-content: center;
+  padding: 2rem 0 2rem 0;
+  border-top: 2px solid rgba(8, 8, 8, 0.322);
+  position:relative;
+}
+
+.font-config {
+  font-family: Times, "Times New Roman", Georgia, serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+.cartoes {
+
+  margin-top:20px;
+  width: 400px;
+  height:120px;
+}
+.text{
+color: #0A0E59;
+margin-top:30px;
+margin-bottom:30px;
+}
+
+@media (max-width: 425px){
+  footer h2{
+    font-size: 22px;
+  }
+}

@@ -1,0 +1,192 @@
+.section-contatos{
+  display: flex;
+  justify-content: center;
+}
+
+.texto{
+  text-align: center;
+  color: #0A0E59;
+}
+
+.form {
+  margin-top: 100px ;
+  max-width: 40%;
+  margin: 0 auto;
+  background-color: #cc9; 
+  border:10px solid rgba(134, 113, 113, 0.384); 
+  padding: 5px;
+}
+
+.form-contato{
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+form label{
+  font-weight: 700;
+}
+
+.btn-form-contato{
+  border-radius: 10px;
+  background: #010440;
+  color: #f2f0d8;
+  border-radius: 10px;
+}
+
+.btn-form-contato:hover {
+  color: #F2EB85;
+  background: #0A0E59;
+}
+
+@media (max-width: 425px){
+  .btn-form-contato{
+    width: 90%;
+  }
+
+  form{
+    width: 80%;
+  }
+ 
+  @media (max-width: 1180px) {
+    
+    .section-contatos{
+      display: flex;
+      justify-content: center;
+    }
+    
+    .texto{
+      text-align: center;
+      color: #0A0E59;
+    }
+    
+    .form {
+      margin-top: 100px ;
+      max-width: 40%;
+      margin: 0 auto;
+      background-color: #cc9; 
+      border:10px solid rgba(134, 113, 113, 0.384); 
+      padding: 5px;
+    }
+    
+    .form-contato{
+      width: 50%;
+      padding: 10px;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+    }
+    
+    form label{
+      font-weight: 700;
+    }
+    
+    .btn-form-contato{
+      border-radius: 10px;
+      background: #010440;
+      color: #f2f0d8;
+      border-radius: 10px;
+    }
+    
+    .btn-form-contato:hover {
+      color: #F2EB85;
+      background: #0A0E59;
+    }
+  }
+}
+  
+  @media (max-width: 576px) {
+    
+    .section-contatos{
+      display: flex;
+      justify-content: center;
+    }
+    
+    .texto{
+      text-align: center;
+      color: #0A0E59;
+    }
+    
+    .form {
+      margin-top: 100px ;
+      max-width: 40%;
+      margin: 0 auto;
+      background-color: #cc9; 
+      border:10px solid rgba(134, 113, 113, 0.384); 
+      padding: 5px;
+    }
+    
+    .form-contato{
+      width: 50%;
+      padding: 10px;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+    }
+    
+    form label{
+      font-weight: 700;
+    }
+    
+    .btn-form-contato{
+      border-radius: 10px;
+      background: #010440;
+      color: #f2f0d8;
+      border-radius: 10px;
+    }
+    
+    .btn-form-contato:hover {
+      color: #F2EB85;
+      background: #0A0E59;
+    }
+  }
+  
+  @media (max-width: 800px) {
+    .section-contatos{
+      display: flex;
+      justify-content: center;
+    }
+    
+    .texto{
+      text-align: center;
+      color: #0A0E59;
+    }
+    
+    .form {
+      margin-top: 100px ;
+      max-width: 40%;
+      margin: 0 auto;
+      background-color: #cc9; 
+      border:10px solid rgba(134, 113, 113, 0.384); 
+      padding: 5px;
+    }
+    
+    .form-contato{
+      width: 50%;
+      padding: 10px;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+    }
+    
+    form label{
+      font-weight: 700;
+    }
+    
+    .btn-form-contato{
+      border-radius: 10px;
+      background: #010440;
+      color: #f2f0d8;
+      border-radius: 10px;
+    }
+    
+    .btn-form-contato:hover {
+      color: #F2EB85;
+      background: #0A0E59;
+    }
+
+
+}
+

@@ -1,0 +1,113 @@
+body {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background-color: #f2f0d8;
+}
+hr{
+  width:100%;
+}
+
+.font-config {
+  font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+.btn-cadastro {
+  text-decoration: none;
+  background: #010440;
+  color: #f2f0d8;
+  font-weight: normal;
+  border-radius: 10px;
+  margin: 3px;
+}
+
+.btn-cadastro:hover {
+  color: #f2eb85;
+  background: #0a0e59;
+}
+
+.btn-cadastro-delete {
+  text-decoration: none;
+  color: #f2f0d8;
+  font-weight: normal;
+  border-radius: 10px;
+  margin: 3px;
+}
+
+.btn-cadastro-delete:hover {
+  color: #f2eb85;
+}
+
+.info-cards {
+  background-color: #f2eb85e2;
+  box-shadow: 0px 0px 8px 2px #000000;
+  border-radius: 10px;
+}
+
+.tabela-cadastro {
+  /*display: flex;
+  justify-content: center;*/
+  background-color: #495073;
+  box-shadow: 0px 0px 8px 2px black;
+  width: 100%;
+}
+
+.tabela-cadastro th {
+  text-align: center;
+  height: 70px;
+  color: #f2eb85;
+}
+
+.tabela-cadastro td {
+  text-align: center;
+  color: #f2f0d8;
+}
+
+.tabela-cadastro a {
+  width: 30%;
+}
+
+@media (max-width: 1180px) {
+  .tabela-cadastro a {
+    display: block;
+    width: 90%;
+  }
+}
+
+@media (max-width: 576px) {
+  .tabela-cadastro a {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 800px) {
+  
+  #praia{
+    width:160px;
+  }
+  
+  #transferencia{
+    width:160px;
+  }
+  
+  #bagagem{
+    width:160px;
+  }
+  
+  #bilhete{
+    width:160px;
+  }
+  
+  #documento{
+    width:160px;
+  }
+  
+  #turismo{
+    width:160px;
+  }
+  
+  #praia{
+    width:160px;
+  }
+  
+}

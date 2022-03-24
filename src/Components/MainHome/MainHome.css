@@ -1,0 +1,85 @@
+.img{
+  width: 100%;
+  height: 200px;
+  margin-bottom: 20px;
+}
+.word{
+  color: blueviolet;
+}
+
+.sobre-description {
+  text-align: center;
+}
+
+.info-cards {
+  background-color: #f8f7ece2;
+  box-shadow: 0px 0px 8px 2px #000000;
+  border-radius: 5px;
+}
+
+#praia{
+  width:160px;
+}
+
+#transferencia{
+  width:160px;
+}
+
+#bagagem{
+  width:160px;
+}
+
+#bilhete{
+  width:160px;
+}
+
+#documento{
+  width:160px;
+}
+
+#turismo{
+  width:160px;
+}
+
+#praia{
+  width:160px;
+}
+
+@media (max-width: 800px) {
+  
+  .img{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+
+  #praia{
+    width:160px;
+  }
+  
+  #transferencia{
+    width:160px;
+  }
+  
+  #bagagem{
+    width:160px;
+  }
+  
+  #bilhete{
+    width:160px;
+  }
+  
+  #documento{
+    width:160px;
+  }
+  
+  #turismo{
+    width:160px;
+  }
+  
+  #praia{
+    width:160px;
+  }
+
+  
+}

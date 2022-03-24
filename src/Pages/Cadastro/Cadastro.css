@@ -1,0 +1,35 @@
+body {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background-color: #f2f0d8;
+}
+
+.font-config {
+  font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+.container-cadastro{
+  background: url(../../assets/img/viagem.jpg) center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-cadastro button {
+  width: 300px;
+  padding:40px;
+  cursor: pointer;
+  background: #010440;
+  color: #f2f0d8;
+  border-radius: 10px;
+  margin: 15px;   
+}
+
+.container-cadastro button:hover {
+  color: #F2EB85;
+  background: #0A0E59;
+}
